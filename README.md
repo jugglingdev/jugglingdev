@@ -101,7 +101,7 @@ I'm Kayla, a teacher turned developer from the United States.  I bring my backgr
 
 - [ ] ISC2 - CSSLP Certification
 
----
+<br>
 
 ## Find Me :mag:
 
