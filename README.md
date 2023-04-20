@@ -4,7 +4,7 @@ Welcome to my GitHub!
 
 I'm Kayla, a teacher turned developer from the United States.  I bring my background of music :musical_keyboard: and language :speech_balloon: to the world of coding.
 
----
+<br>
 
 ## The Stack :computer:
 
@@ -14,7 +14,7 @@ I'm Kayla, a teacher turned developer from the United States.  I bring my backgr
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
----
+<br>
 
 ## Current Projects :fire:
 
@@ -51,7 +51,7 @@ I'm Kayla, a teacher turned developer from the United States.  I bring my backgr
     </tr>
 </table>
 
----
+<br>
 
 ## Bookshelf :books:
 
@@ -65,7 +65,7 @@ I'm Kayla, a teacher turned developer from the United States.  I bring my backgr
 - [ ] Refactoring: Improving the Design of Existing Code
 - [ ] The Joy of JavaScript
 
----
+<br>
 
 ## Online Courses and Certifications :mortar_board:
 
@@ -103,6 +103,10 @@ I'm Kayla, a teacher turned developer from the United States.  I bring my backgr
 
 ---
 
+## Find Me :mag:
+
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jugglingdev) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayla-marie-paden) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/jugglingdev?hr_r=1) [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/jugglingdev) [![Frontend Mentor](https://img.shields.io/badge/frontend%20mentor-%233F54A3.svg?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/jugglingdev) [![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/profile/kaylamarie1785)
+
+<br>
 
 :wave: *Thanks for visiting!*
