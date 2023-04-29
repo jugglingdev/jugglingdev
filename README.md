@@ -2,7 +2,7 @@
 
 Welcome to my GitHub!
 
-I'm Kayla, a teacher turned developer from the United States.  I bring my background of music :musical_keyboard: and language :speech_balloon: to the world of coding.
+I'm Kayla, a teacher turned developer from the United States.  I bring my background of music :musical_keyboard: and language :speech_balloon: to the world of coding.  And yes, I really do juggle. 🤹
 
 <br>
 
@@ -55,15 +55,20 @@ I'm Kayla, a teacher turned developer from the United States.  I bring my backgr
 
 ## Bookshelf :books:
 
+### Programming
+
 - [X] Hackers and Painters
 - [ ] The Self-Taught Programmer :book:
 - [ ] Clean Code :book:
-- [ ] Teach Yourself Java in 21 Days :book:
 - [ ] The Pragmatic Programmer
 - [ ] Think Like a Programmer: An Introduction to Creative Problem Solving
 - [ ] Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability
 - [ ] Refactoring: Improving the Design of Existing Code
+
+### Languages
+
 - [ ] The Joy of JavaScript
+- [X] Teach Yourself Java in 21 Days
 
 <br>
 
