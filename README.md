@@ -58,8 +58,8 @@ I'm Kayla, a teacher turned developer from the United States.  I bring my backgr
 ### Programming
 
 - [X] Hackers and Painters
+- [X] Clean Code
 - [ ] The Self-Taught Programmer :book:
-- [ ] Clean Code :book:
 - [ ] The Pragmatic Programmer
 - [ ] Think Like a Programmer: An Introduction to Creative Problem Solving
 - [ ] Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability
