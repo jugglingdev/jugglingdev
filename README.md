@@ -59,7 +59,7 @@ I'm Kayla, a teacher turned developer from the United States.  I bring my backgr
 
 - [X] Hackers and Painters
 - [X] Clean Code
-- [ ] The Self-Taught Programmer :book:
+- [X] The Self-Taught Programmer
 - [ ] The Pragmatic Programmer
 - [ ] Think Like a Programmer: An Introduction to Creative Problem Solving
 - [ ] Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability
@@ -85,7 +85,6 @@ I'm Kayla, a teacher turned developer from the United States.  I bring my backgr
 - [ ] The Odin Project - Foundations :school:
 - [ ] The Modern JavaScript Tutorial
 - [ ] Josh W. Cameau - CSS for JavaScript Developers
-- [ ] Josh W. Cameau - The Joy of React
 
 ### Backend
 
