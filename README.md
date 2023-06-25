@@ -60,15 +60,32 @@ I'm Kayla, a teacher turned developer from the United States.  I bring my backgr
 - [X] Hackers and Painters
 - [X] Clean Code
 - [X] The Self-Taught Programmer
+- [ ] Cracking the Coding Interview: 189 Programming Questions and Solutions :book:
 - [ ] The Pragmatic Programmer
+- [ ] The Imposter's Handbook: A CS Primer for Self-Taught Developers
 - [ ] Think Like a Programmer: An Introduction to Creative Problem Solving
 - [ ] Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability
 - [ ] Refactoring: Improving the Design of Existing Code
+- [ ] Design Patterns
+- [ ] Grokking Simplicity: Taming Complex Software with Functional Thinking
 
 ### Languages
 
-- [ ] The Joy of JavaScript
 - [X] Teach Yourself Java in 21 Days
+- [ ] The Joy of JavaScript
+
+### Strategy
+
+- [X] Good to Great
+- [X] Measure What Matters
+- [X] Willpower Doesn't Work
+- [ ] Atomic Habits
+
+### Other
+
+- [ ] Culture Code
+- [ ] Solve for Happy: Engineer Your Path to Joy
+- [ ] Building a Storybrand
 
 <br>
 
