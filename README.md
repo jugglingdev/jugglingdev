@@ -26,74 +26,82 @@
 
 <h2 align="center"> Current Projects 🔥</h2>
 
-<table width="100%">
-    <th>Project</th>
-    <th>Stars</th>
-    <th>Forks</th>
-    <th>Issues</th>
-    <th>Pull Requests</th>
-    <th>Last Commit</th>
-    <tr>
-        <td>
-            <a href="https://github.com/Open-SGF/invisiblemanleadership.org">The Invisible Man</a>
-        </td>
-        <td>
-            <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Open-SGF/invisiblemanleadership.org?style=flat-square">
-        </td>
-        <td>
-            <img alt="GitHub forks" src="https://img.shields.io/github/forks/Open-SGF/invisiblemanleadership.org?style=flat-square">
-        </td>
-        <td>
-            <img alt="GitHub issues" src="https://img.shields.io/github/issues/Open-SGF/invisiblemanleadership.org?style=flat-square">
-        </td>
-        <td>
-            <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Open-SGF/invisiblemanleadership.org?style=flat-square">
-        </td>
-        <td>
-            <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Open-SGF/invisiblemanleadership.org?style=flat-square">
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/jugglingdev/etch-a-sketch">Etch-A-Sketch</a>
-        </td>
-        <td>
-            <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jugglingdev/etch-a-sketch?style=flat-square">
-        </td>
-        <td>
-            <img alt="GitHub forks" src="https://img.shields.io/github/forks/jugglingdev/etch-a-sketch?style=flat-square">
-        </td>
-        <td>
-            <img alt="GitHub issues" src="https://img.shields.io/github/issues/jugglingdev/etch-a-sketch?style=flat-square">
-        </td>
-        <td>
-            <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/jugglingdev/etch-a-sketch?style=flat-square">
-        </td>
-        <td>
-            <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jugglingdev/etch-a-sketch?style=flat-square">
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/jugglingdev/calculator">Calculator</a>
-        </td>
-        <td>
-            <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jugglingdev/calculator?style=flat-square">
-        </td>
-        <td>
-            <img alt="GitHub forks" src="https://img.shields.io/github/forks/jugglingdev/calculator?style=flat-square">
-        </td>
-        <td>
-            <img alt="GitHub issues" src="https://img.shields.io/github/issues/jugglingdev/calculator?style=flat-square">
-        </td>
-        <td>
-            <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/jugglingdev/calculator?style=flat-square">
-        </td>
-        <td>
-            <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jugglingdev/calculator?style=flat-square">
-        </td>
-    </tr>
-</table>
+<div align="center">
+    <table align="center">
+        <thead>
+            <tr>
+                <th>Project</th>
+                <th>Stars</th>
+                <th>Forks</th>
+                <th>Issues</th>
+                <th>Pull Requests</th>
+                <th>Last Commit</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                    <a href="https://github.com/Open-SGF/invisiblemanleadership.org">The Invisible Man</a>
+                </td>
+                <td>
+                    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Open-SGF/invisiblemanleadership.org?style=flat-square">
+                </td>
+                <td>
+                    <img alt="GitHub forks" src="https://img.shields.io/github/forks/Open-SGF/invisiblemanleadership.org?style=flat-square">
+                </td>
+                <td>
+                    <img alt="GitHub issues" src="https://img.shields.io/github/issues/Open-SGF/invisiblemanleadership.org?style=flat-square">
+                </td>
+                <td>
+                    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Open-SGF/invisiblemanleadership.org?style=flat-square">
+                </td>
+                <td>
+                    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Open-SGF/invisiblemanleadership.org?style=flat-square">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://github.com/jugglingdev/etch-a-sketch">Etch-A-Sketch</a>
+                </td>
+                <td>
+                    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jugglingdev/etch-a-sketch?style=flat-square">
+                </td>
+                <td>
+                    <img alt="GitHub forks" src="https://img.shields.io/github/forks/jugglingdev/etch-a-sketch?style=flat-square">
+                </td>
+                <td>
+                    <img alt="GitHub issues" src="https://img.shields.io/github/issues/jugglingdev/etch-a-sketch?style=flat-square">
+                </td>
+                <td>
+                    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/jugglingdev/etch-a-sketch?style=flat-square">
+                </td>
+                <td>
+                    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jugglingdev/etch-a-sketch?style=flat-square">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://github.com/jugglingdev/calculator">Calculator</a>
+                </td>
+                <td>
+                    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jugglingdev/calculator?style=flat-square">
+                </td>
+                <td>
+                    <img alt="GitHub forks" src="https://img.shields.io/github/forks/jugglingdev/calculator?style=flat-square">
+                </td>
+                <td>
+                    <img alt="GitHub issues" src="https://img.shields.io/github/issues/jugglingdev/calculator?style=flat-square">
+                </td>
+                <td>
+                    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/jugglingdev/calculator?style=flat-square">
+                </td>
+                <td>
+                    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jugglingdev/calculator?style=flat-square">
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 <br>
 
