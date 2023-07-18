@@ -201,4 +201,4 @@
 
 <br>
 
-<p align="center">👋 *Thanks for visiting!*</p>
+<p align="center">👋 <em>Thanks for visiting!</em></p>
