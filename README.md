@@ -2,6 +2,8 @@
     <img src="banner.png" align="center">
 </header>
 
+<br>
+
 <h1 align="center">Hello, World! 🌎</h1>
     <p align="center">
         I'm Kayla, a teacher turned developer from the United States.<br>
@@ -25,7 +27,6 @@
 <br>
 
 <h2 align="center"> Current Projects 🔥</h2>
-
 <div align="center">
     <table align="center">
         <thead>
@@ -176,29 +177,28 @@
 
 <br>
 
-<h2 align="center"> Find Me 🔍</h2>
-
-<p align="center">
-    <a href="https://github.com/jugglingdev" target="_blank">
-        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-    </a>
-    <a href="https://www.linkedin.com/in/kayla-marie-paden" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a href="https://www.hackerrank.com/jugglingdev?hr_r=1" target="_blank">
-        <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
-    </a>
-    <a href="https://www.freecodecamp.org/jugglingdev" target="_blank">
-        <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green">
-    </a>
-    <a href="https://www.frontendmentor.io/profile/jugglingdev" target="_blank">
-        <img src="https://img.shields.io/badge/frontend%20mentor-%233F54A3.svg?style=for-the-badge&logo=frontendmentor&logoColor=white">
-    </a>
-    <a href="https://www.datacamp.com/profile/kaylamarie1785" target="_blank">
-        <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860">
-    </a>
-</p>
-
-<br>
-
-<p align="center">👋 <em>Thanks for visiting!</em></p>
+<footer>
+    <h2 align="center"> Find Me 🔍</h2>
+    <p align="center">
+        <a href="https://github.com/jugglingdev" target="_blank">
+            <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+        <a href="https://www.linkedin.com/in/kayla-marie-paden" target="_blank">
+            <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+        </a>
+        <a href="https://www.hackerrank.com/jugglingdev?hr_r=1" target="_blank">
+            <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+        </a>
+        <a href="https://www.freecodecamp.org/jugglingdev" target="_blank">
+            <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green">
+        </a>
+        <a href="https://www.frontendmentor.io/profile/jugglingdev" target="_blank">
+            <img src="https://img.shields.io/badge/frontend%20mentor-%233F54A3.svg?style=for-the-badge&logo=frontendmentor&logoColor=white">
+        </a>
+        <a href="https://www.datacamp.com/profile/kaylamarie1785" target="_blank">
+            <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860">
+        </a>
+    </p>
+    <br>
+    <p align="center">👋 <em>Thanks for visiting!</em></p>
+</footer>
