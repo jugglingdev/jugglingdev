@@ -1,12 +1,14 @@
-# Hello, World! :earth_americas:
+<img src="banner.png" align="center">
 
-Welcome to my GitHub!
-
-I'm Kayla, a teacher turned developer from the United States.  I bring my background of music :musical_keyboard: and language :speech_balloon: to the world of coding.  And yes, I really do juggle. 🤹
+<h1 align="center">Hello, World! 🌎</h1>
+    <p align="center">I'm Kayla, a teacher turned developer from the United States.
+    <br>I bring my background of music 🎹 and language 💬 to the world of coding.
+    <br>And yes, I really do juggle. 🤹
+    </p>
 
 <br>
 
-## The Stack :computer:
+<h2 align="center">The Stack 💻</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
@@ -16,7 +18,7 @@ I'm Kayla, a teacher turned developer from the United States.  I bring my backgr
 
 <br>
 
-## Current Projects :fire:
+<h2 align="center"> Current Projects 🔥</h2>
 
 <table>
     <th>Project</th>
@@ -53,7 +55,7 @@ I'm Kayla, a teacher turned developer from the United States.  I bring my backgr
 
 <br>
 
-## Bookshelf :books:
+<h2 align="center"> Bookshelf 📚</h2>
 
 ### Programming
 
@@ -124,7 +126,7 @@ I'm Kayla, a teacher turned developer from the United States.  I bring my backgr
 
 <br>
 
-## Find Me :mag:
+<h2 align="center"> Find Me 🔍</h2>
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jugglingdev) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayla-marie-paden) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/jugglingdev?hr_r=1) [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/jugglingdev) [![Frontend Mentor](https://img.shields.io/badge/frontend%20mentor-%233F54A3.svg?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/jugglingdev) [![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/profile/kaylamarie1785)
 
