@@ -146,94 +146,37 @@
 
 <h2 align="center">Online Courses and Certifications 🎓</h2>
 
-<fieldset>
-    <legend><h3>General</h3></legend>
-    <div>
-        <input type="checkbox" class="checkbox" name="learning-how-to-learn" id="learning-how-to-learn" checked
-        style="--size: 16px; --radius: 6px; --bg: #ECEFF2; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
-        <label for="learning-how-to-learn" style="display: inline">Learning How to Learn</label>
-    </div>
-    <div>
-        <input type="checkbox" class="checkbox" name="watch-and-code" id="watch-and-code"
-        style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
-        <label for="watch-and-code">Watch and Code</label>
-    </div>
-</fieldset>
+<h3>General</h3>
 
-<fieldset>
-    <legend><h3>Frontend</h3></legend>
-    <div>
-        <input type="checkbox" class="checkbox" name="interneting-is-hard" id="interneting-is-hard" checked
-        style="--size: 16px; --radius: 6px; --bg: #ECEFF2; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
-        <label for="interneting-is-hard" style="display: inline">Interneting Is Hard - HTML & CSS Is Hard</label>
-    </div>
-    <div>
-        <input type="checkbox" class="checkbox" name="odin-project-foundations" id="odin-project-foundations"
-        style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
-        <label for="odin-project-foundations">The Odin Project - Foundations 🏫</label>
-    </div>
-    <div>
-        <input type="checkbox" class="checkbox" name="modern-javascript-tutorial" id="modern-javascript-tutorial"
-        style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
-        <label for="modern-javascript-tutorial">The Modern JavaScript Tutorial</label>
-    </div>
-        <div>
-        <input type="checkbox" class="checkbox" name="css-for-javascript-developers" id="css-for-javascript-developers"
-        style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
-        <label for="css-for-javascript-developers">Josh W. Cameau - CSS for JavaScript Developers</label>
-    </div>
-</fieldset>
+    🌼 Learning How to Learn
+    🔸 Watch and Code
 
-<fieldset>
-    <legend><h3>Backend</h3></legend>
-    <div>
-        <input type="checkbox" class="checkbox" name="launch-code" id="launch-code"
-        style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
-        <label for="launch-code">Launch Code - Java Web Development</label>
-    </div>
-    <div>
-        <input type="checkbox" class="checkbox" name="odin-project-full-stack-javascript" id="odin-project-full-stack-javascript"
-        style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
-        <label for="odin-project-full-stack-javascript">The Odin Project - Full Stack JavaScript</label>
-    </div>
-</fieldset>
 
-<fieldset>
-    <legend><h3>Data</h3></legend>
-    <div>
-        <input type="checkbox" class="checkbox" name="understanding-data-topics" id="understanding-data-topics" checked
-        style="--size: 16px; --radius: 6px; --bg: #ECEFF2; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
-        <label for="understanding-data-topics" style="display: inline">DataCamp - Understanding Data Topics</label>
-    </div>
-        <div>
-        <input type="checkbox" class="checkbox" name="introduction-to-power-bi" id="introduction-to-power-bi" checked
-        style="--size: 16px; --radius: 6px; --bg: #ECEFF2; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
-        <label for="introduction-to-power-bi" style="display: inline">DataCamp - Introduction to Power BI</label>
-    </div>
-    <div>
-        <input type="checkbox" class="checkbox" name="sql-fundamentals" id="sql-fundamentals"
-        style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
-        <label for="sql-fundamentals">DataCamp - SQL Fundamentals</label>
-    </div>
-</fieldset>
+<h3>Frontend</h3>
 
-<fieldset>
-    <legend><h3>Test-Driven Development</h3></legend>
-    <div>
-        <input type="checkbox" class="checkbox" name="web-ui-javascript-path" id="web-ui-javascript-path"
-        style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
-        <label for="web-ui-javascript-path">Test Automation University - Web UI JavaScript Path</label>
-    </div>
-</fieldset>
+    🌼 Interneting Is Hard - HTML & CSS Is Hard
+    🔸 The Odin Project - Foundations 🏫
+    🔸 The Modern JavaScript Tutorial
+    🔸 Josh W. Cameau - CSS for JavaScript Developers
 
-<fieldset>
-    <legend><h3>Security-Minded Development</h3></legend>
-    <div>
-        <input type="checkbox" class="checkbox" name="csslp-certification" id="csslp-certification"
-        style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
-        <label for="csslp-certification">ISC2 - CSSLP Certification</label>
-    </div>
-</fieldset>
+<h3>Backend</h3>
+
+    🔸 Launch Code - Java Web Development
+    🔸 The Odin Project - Full Stack JavaScript
+
+<h3>Data</h3>
+
+    🌼 DataCamp - Understanding Data Topics
+    🌼 DataCamp - Introduction to Power BI
+    🔸 DataCamp - SQL Fundamentals
+
+<h3>Test-Driven Development</h3>
+
+    🔸 Test Automation University - Web UI JavaScript Path
+
+<h3>Security-Minded Development</h3>
+
+    🔸 ISC2 - CSSLP Certification
 
 <br>
 
