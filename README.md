@@ -113,8 +113,8 @@
 - [X] Hackers and Painters
 - [X] Clean Code
 - [X] The Self-Taught Programmer
-- [ ] Cracking the Coding Interview: 189 Programming Questions and Solutions :book:
 - [ ] The Pragmatic Programmer :book:
+- [ ] Cracking the Coding Interview: 189 Programming Questions and Solutions :book:
 - [ ] The Imposter's Handbook: A CS Primer for Self-Taught Developers
 - [ ] Think Like a Programmer: An Introduction to Creative Problem Solving
 - [ ] Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability
@@ -136,7 +136,7 @@
 
 ### Other
 
-- [ ] Building a Storybrand :book:
+- [X] Building a Storybrand
 - [ ] Culture Code
 - [ ] Solve for Happy: Engineer Your Path to Joy
 
