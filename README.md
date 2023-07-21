@@ -111,37 +111,20 @@
 <h2 align="center"> Bookshelf 📚</h2>
 
 <h3>Programming</h3>
-```
-🌼 Hackers and Painters
-🌼 Clean Code
-🌼 The Self-Taught Programmer
-🔸 The Pragmatic Programmer 📖
-🔸 Cracking the Coding Interview: 189 Programming Questions and Solutions 📖
-🔸 The Imposter's Handbook: A CS Primer for Self-Taught Developers
-🔸 Think Like a Programmer: An Introduction to Creative Problem Solving
-🔸 Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability
-🔸 Refactoring: Improving the Design of Existing Code
-🔸 Design Patterns
-🔸 Grokking Simplicity: Taming Complex Software with Functional Thinking
-```
 
-<fieldset>
-    <legend><h3>Programming</h3></legend>
-        <p>🌼 Hackers and Painters</p>
-        <p>🌼 Clean Code</p>
-        <p>🌼 The Self-Taught Programmer</p>
-        <p>🔸 The Pragmatic Programmer 📖</p>
-        <p>🔸 Cracking the Coding Interview: 189 Programming Questions and Solutions 📖</p>
-        <p>🔸 The Imposter's Handbook: A CS Primer for Self-Taught Developers</p>
-        <p>🔸 Think Like a Programmer: An Introduction to Creative Problem Solving</p>
-        <p>🔸 Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability</p>
-        <p>🔸 Refactoring: Improving the Design of Existing Code</p>
-        <p>🔸 Design Patterns</p>
-        <p>🔸 Grokking Simplicity: Taming Complex Software with Functional Thinking</p>
-</fieldset>
+    🌼 Hackers and Painters
+    🌼 Clean Code
+    🌼 The Self-Taught Programmer
+    🔸 The Pragmatic Programmer 📖
+    🔸 Cracking the Coding Interview: 189 Programming Questions and Solutions 📖
+    🔸 The Imposter's Handbook: A CS Primer for Self-Taught Developers
+    🔸 Think Like a Programmer: An Introduction to Creative Problem Solving
+    🔸 Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability
+    🔸 Refactoring: Improving the Design of Existing Code
+    🔸 Design Patterns
+    🔸 Grokking Simplicity: Taming Complex Software with Functional Thinking
 
-<fieldset>
-    <legend><h3>Languages</h3></legend>
+<h3>Languages</h3>
     <div>
         <input type="checkbox" class="checkbox" name="teach-yourself-java-in-21-days" id="teach-yourself-java-in-21-days" checked
         style="--size: 16px; --radius: 6px; --bg: #ECEFF2; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
@@ -152,10 +135,8 @@
         style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
         <label for="joy-of-javascript">The Joy of JavaScript</label>
     </div>
-</fieldset>
 
-<fieldset>
-    <legend><h3>Strategy</h3></legend>
+<h3>Strategy</h3>
     <div>
         <input type="checkbox" class="checkbox" name="good-to-great" id="good-to-great" checked
         style="--size: 16px; --radius: 6px; --bg: #ECEFF2; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
@@ -176,7 +157,6 @@
         style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
         <label for="atomic-habits">Atomic Habits</label>
     </div>
-</fieldset>
 
 <fieldset>
     <legend><h3>Other</h3></legend>
