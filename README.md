@@ -1,5 +1,3 @@
-<link rel="stylesheet" type="text/css" href="https://unpkg.com/checkboxes@1.3.3/dist/css/checkboxes.min.css">
-
 <header>
     <img src="banner.png" align="center">
 </header>
