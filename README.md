@@ -110,21 +110,34 @@
 
 <h2 align="center"> Bookshelf 📚</h2>
 
+<h3>Programming</h3>
+```
+🌼 Hackers and Painters
+🌼 Clean Code
+🌼 The Self-Taught Programmer
+🔸 The Pragmatic Programmer 📖
+🔸 Cracking the Coding Interview: 189 Programming Questions and Solutions 📖
+🔸 The Imposter's Handbook: A CS Primer for Self-Taught Developers
+🔸 Think Like a Programmer: An Introduction to Creative Problem Solving
+🔸 Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability
+🔸 Refactoring: Improving the Design of Existing Code
+🔸 Design Patterns
+🔸 Grokking Simplicity: Taming Complex Software with Functional Thinking
+```
+
 <fieldset>
     <legend><h3>Programming</h3></legend>
-    <ul style="list-style-type: none;">
-        <li>🌼 Hackers and Painters</li>
-        <li>🌼 Clean Code</li>
-        <li>🌼 The Self-Taught Programmer</li>
-        <li>🔸 The Pragmatic Programmer 📖</li>
-        <li>🔸 Cracking the Coding Interview: 189 Programming Questions and Solutions 📖</li>
-        <li>🔸 The Imposter's Handbook: A CS Primer for Self-Taught Developers</li>
-        <li>🔸 Think Like a Programmer: An Introduction to Creative Problem Solving</li>
-        <li>🔸 Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability</li>
-        <li>🔸 Refactoring: Improving the Design of Existing Code</li>
-        <li>🔸 Design Patterns</li>
-        <li>🔸 Grokking Simplicity: Taming Complex Software with Functional Thinking</li>
-    </ul>
+        <p>🌼 Hackers and Painters</p>
+        <p>🌼 Clean Code</p>
+        <p>🌼 The Self-Taught Programmer</p>
+        <p>🔸 The Pragmatic Programmer 📖</p>
+        <p>🔸 Cracking the Coding Interview: 189 Programming Questions and Solutions 📖</p>
+        <p>🔸 The Imposter's Handbook: A CS Primer for Self-Taught Developers</p>
+        <p>🔸 Think Like a Programmer: An Introduction to Creative Problem Solving</p>
+        <p>🔸 Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability</p>
+        <p>🔸 Refactoring: Improving the Design of Existing Code</p>
+        <p>🔸 Design Patterns</p>
+        <p>🔸 Grokking Simplicity: Taming Complex Software with Functional Thinking</p>
 </fieldset>
 
 <fieldset>
