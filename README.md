@@ -112,35 +112,35 @@
 
 <h3>Programming</h3>
 
-🌼 Hackers and Painters
-🌼 Clean Code
-🌼 The Self-Taught Programmer
-🔸 The Pragmatic Programmer 📖
-🔸 Cracking the Coding Interview: 189 Programming Questions and Solutions 📖
-🔸 The Imposter's Handbook: A CS Primer for Self-Taught Developers
-🔸 Think Like a Programmer: An Introduction to Creative Problem Solving
-🔸 Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability
-🔸 Refactoring: Improving the Design of Existing Code
-🔸 Design Patterns
-🔸 Grokking Simplicity: Taming Complex Software with Functional Thinking
+    🌼 Hackers and Painters
+    🌼 Clean Code
+    🌼 The Self-Taught Programmer
+    🔸 The Pragmatic Programmer 📖
+    🔸 Cracking the Coding Interview: 189 Programming Questions and Solutions 📖
+    🔸 The Imposter's Handbook: A CS Primer for Self-Taught Developers
+    🔸 Think Like a Programmer: An Introduction to Creative Problem Solving
+    🔸 Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability
+    🔸 Refactoring: Improving the Design of Existing Code
+    🔸 Design Patterns
+    🔸 Grokking Simplicity: Taming Complex Software with Functional Thinking
 
 <h3>Languages</h3>
 
-🌼 Teach Yourself Java in 21 Days
-🔸 The Joy of JavaScript
+    🌼 Teach Yourself Java in 21 Days
+    🔸 The Joy of JavaScript
 
 <h3>Strategy</h3>
 
-🌼 Good to Great
-🌼 Measure What Matters
-🌼 Willpower Doesn't Work
-🔸 Atomic Habits
+    🌼 Good to Great
+    🌼 Measure What Matters
+    🌼 Willpower Doesn't Work
+    🔸 Atomic Habits
 
 <h3>Other</h3>
 
-🌼 Building a Storybrand
-🌼 Culture Code
-🔸 Solve for Happy: Engineer Your Path to Joy
+    🌼 Building a Storybrand
+    🌼 Culture Code
+    🔸 Solve for Happy: Engineer Your Path to Joy
 
 <br>
 
