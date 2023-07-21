@@ -112,61 +112,19 @@
 
 <fieldset>
     <legend><h3>Programming</h3></legend>
-    <div>
-        <input type="checkbox" class="checkbox" name="hackers-and-painters" id="hackers-and-painters" checked
-        style="--size: 16px; --radius: 6px; --bg: #ECEFF2; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
-        <label for="hackers-and-painters" style="display: inline">Hackers and Painters</label>
-    </div>
-    <div>
-        <input type="checkbox" class="checkbox" name="clean-code" id="clean-code" checked
-        style="--size: 16px; --radius: 6px; --bg: #ECEFF2; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
-        <label for="clean-code">Clean Code</label>
-    </div>
-    <div>
-        <input type="checkbox" class="checkbox" name="self-taught-programmer" id="self-taught-programmer" checked
-        style="--size: 16px; --radius: 6px; --bg: #ECEFF2; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
-        <label for="self-taught-programmer">The Self-Taught Programmer</label>
-    </div>
-    <div>
-        <input type="checkbox" class="checkbox" name="pragmatic-programmer" id="pragmatic-programmer"
-        style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
-        <label for="pragmatic-programmer">The Pragmatic Programmer 📖</label>
-    </div>
-    <div>
-        <input type="checkbox" class="checkbox" name="cracking-the-coding-interview" id="cracking-the-coding-interview"
-        style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
-        <label for="cracking-the-coding-interview">Cracking the Coding Interview: 189 Programming Questions and Solutions 📖</label>
-    </div>
-    <div>
-        <input type="checkbox" class="checkbox" name="imposters-handbook" id="imposters-handbook"
-        style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
-        <label for="imposters-handbook">The Imposter's Handbook: A CS Primer for Self-Taught Developers</label>
-    </div>
-    <div>
-        <input type="checkbox" class="checkbox" name="think-like-a-programmer" id="think-like-a-programmer"
-        style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
-        <label for="think-like-a-programmer">Think Like a Programmer: An Introduction to Creative Problem Solving</label>
-    </div>
-    <div>
-        <input type="checkbox" class="checkbox" name="dont-make-me-think" id="dont-make-me-think"
-        style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
-        <label for="dont-make-me-think">Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability</label>
-    </div>
-        <div>
-        <input type="checkbox" class="checkbox" name="refactoring" id="refactoring"
-        style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
-        <label for="refactoring">Refactoring: Improving the Design of Existing Code</label>
-    </div>
-        <div>
-        <input type="checkbox" class="checkbox" name="design-patterns" id="design-patterns"
-        style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
-        <label for="design-patterns">Design Patterns</label>
-    </div>
-        <div>
-        <input type="checkbox" class="checkbox" name="grokking-simplicity" id="grokking-simplicity"
-        style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
-        <label for="grokking-simplicity">Grokking Simplicity: Taming Complex Software with Functional Thinking</label>
-    </div>
+    <ul style="list-style-type: none;">
+        <li>🌼 Hackers and Painters</li>
+        <li>🌼 Clean Code</li>
+        <li>🌼 The Self-Taught Programmer</li>
+        <li>🔸 The Pragmatic Programmer 📖</li>
+        <li>🔸 Cracking the Coding Interview: 189 Programming Questions and Solutions 📖</li>
+        <li>🔸 The Imposter's Handbook: A CS Primer for Self-Taught Developers</li>
+        <li>🔸 Think Like a Programmer: An Introduction to Creative Problem Solving</li>
+        <li>🔸 Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability</li>
+        <li>🔸 Refactoring: Improving the Design of Existing Code</li>
+        <li>🔸 Design Patterns</li>
+        <li>🔸 Grokking Simplicity: Taming Complex Software with Functional Thinking</li>
+    </ul>
 </fieldset>
 
 <fieldset>
