@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="https://unpkg.com/checkboxes@1.3.3/dist/css/checkboxes.min.css">
+
 <header>
     <img src="banner.png" align="center">
 </header>
@@ -108,72 +110,214 @@
 
 <h2 align="center"> Bookshelf 📚</h2>
 
-### Programming
+<fieldset>
+    <legend><h3>Programming</h3></legend>
+    <div>
+        <input type="checkbox" class="checkbox" name="hackers-and-painters" id="hackers-and-painters" checked
+        style="--size: 16px; --radius: 6px; --bg: #ECEFF2; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
+        <label for="hackers-and-painters" style="display: inline">Hackers and Painters</label>
+    </div>
+    <div>
+        <input type="checkbox" class="checkbox" name="clean-code" id="clean-code" checked
+        style="--size: 16px; --radius: 6px; --bg: #ECEFF2; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
+        <label for="clean-code">Clean Code</label>
+    </div>
+    <div>
+        <input type="checkbox" class="checkbox" name="self-taught-programmer" id="self-taught-programmer" checked
+        style="--size: 16px; --radius: 6px; --bg: #ECEFF2; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
+        <label for="self-taught-programmer">The Self-Taught Programmer</label>
+    </div>
+    <div>
+        <input type="checkbox" class="checkbox" name="pragmatic-programmer" id="pragmatic-programmer"
+        style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
+        <label for="pragmatic-programmer">The Pragmatic Programmer 📖</label>
+    </div>
+    <div>
+        <input type="checkbox" class="checkbox" name="cracking-the-coding-interview" id="cracking-the-coding-interview"
+        style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
+        <label for="cracking-the-coding-interview">Cracking the Coding Interview: 189 Programming Questions and Solutions 📖</label>
+    </div>
+    <div>
+        <input type="checkbox" class="checkbox" name="imposters-handbook" id="imposters-handbook"
+        style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
+        <label for="imposters-handbook">The Imposter's Handbook: A CS Primer for Self-Taught Developers</label>
+    </div>
+    <div>
+        <input type="checkbox" class="checkbox" name="think-like-a-programmer" id="think-like-a-programmer"
+        style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
+        <label for="think-like-a-programmer">Think Like a Programmer: An Introduction to Creative Problem Solving</label>
+    </div>
+    <div>
+        <input type="checkbox" class="checkbox" name="dont-make-me-think" id="dont-make-me-think"
+        style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
+        <label for="dont-make-me-think">Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability</label>
+    </div>
+        <div>
+        <input type="checkbox" class="checkbox" name="refactoring" id="refactoring"
+        style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
+        <label for="refactoring">Refactoring: Improving the Design of Existing Code</label>
+    </div>
+        <div>
+        <input type="checkbox" class="checkbox" name="design-patterns" id="design-patterns"
+        style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
+        <label for="design-patterns">Design Patterns</label>
+    </div>
+        <div>
+        <input type="checkbox" class="checkbox" name="grokking-simplicity" id="grokking-simplicity"
+        style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
+        <label for="grokking-simplicity">Grokking Simplicity: Taming Complex Software with Functional Thinking</label>
+    </div>
+</fieldset>
 
-- [X] Hackers and Painters
-- [X] Clean Code
-- [X] The Self-Taught Programmer
-- [ ] The Pragmatic Programmer :book:
-- [ ] Cracking the Coding Interview: 189 Programming Questions and Solutions :book:
-- [ ] The Imposter's Handbook: A CS Primer for Self-Taught Developers
-- [ ] Think Like a Programmer: An Introduction to Creative Problem Solving
-- [ ] Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability
-- [ ] Refactoring: Improving the Design of Existing Code
-- [ ] Design Patterns
-- [ ] Grokking Simplicity: Taming Complex Software with Functional Thinking
+<fieldset>
+    <legend><h3>Languages</h3></legend>
+    <div>
+        <input type="checkbox" class="checkbox" name="teach-yourself-java-in-21-days" id="teach-yourself-java-in-21-days" checked
+        style="--size: 16px; --radius: 6px; --bg: #ECEFF2; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
+        <label for="teach-yourself-java-in-21-days" style="display: inline">Teach Yourself Java in 21 Days</label>
+    </div>
+    <div>
+        <input type="checkbox" class="checkbox" name="joy-of-javascript" id="joy-of-javascript"
+        style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
+        <label for="joy-of-javascript">The Joy of JavaScript</label>
+    </div>
+</fieldset>
 
-### Languages
+<fieldset>
+    <legend><h3>Strategy</h3></legend>
+    <div>
+        <input type="checkbox" class="checkbox" name="good-to-great" id="good-to-great" checked
+        style="--size: 16px; --radius: 6px; --bg: #ECEFF2; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
+        <label for="good-to-great" style="display: inline">Good to Great</label>
+    </div>
+    <div>
+        <input type="checkbox" class="checkbox" name="measure-what-matters" id="measure-what-matters" checked
+        style="--size: 16px; --radius: 6px; --bg: #ECEFF2; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
+        <label for="measure-what-matters" style="display: inline">Measure What Matters</label>
+    </div>
+        <div>
+        <input type="checkbox" class="checkbox" name="willpower-doesnt-work" id="willpower-doesnt-work" checked
+        style="--size: 16px; --radius: 6px; --bg: #ECEFF2; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
+        <label for="willpower-doesnt-work" style="display: inline">Willpower Doesn't Work</label>
+    </div>
+    <div>
+        <input type="checkbox" class="checkbox" name="atomic-habits" id="atomic-habits"
+        style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
+        <label for="atomic-habits">Atomic Habits</label>
+    </div>
+</fieldset>
 
-- [X] Teach Yourself Java in 21 Days
-- [ ] The Joy of JavaScript
-
-### Strategy
-
-- [X] Good to Great
-- [X] Measure What Matters
-- [X] Willpower Doesn't Work
-- [ ] Atomic Habits
-
-### Other
-
-- [X] Building a Storybrand
-- [ ] Culture Code
-- [ ] Solve for Happy: Engineer Your Path to Joy
+<fieldset>
+    <legend><h3>Other</h3></legend>
+    <div>
+        <input type="checkbox" class="checkbox" name="building-a-storybrand" id="building-a-storybrand" checked
+        style="--size: 16px; --radius: 6px; --bg: #ECEFF2; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
+        <label for="building-a-storybrand" style="display: inline">Building a Storybrand</label>
+    </div>
+    <div>
+        <input type="checkbox" class="checkbox" name="culture-code" id="culture-code"
+        style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
+        <label for="culture-code">Culture Code</label>
+    </div>
+    <div>
+        <input type="checkbox" class="checkbox" name="solve-for-happy" id="solve-for-happy"
+        style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
+        <label for="solve-for-happy">Solve for Happy: Engineer Your Path to Joy</label>
+    </div>
+</fieldset>
 
 <br>
 
 <h2 align="center">Online Courses and Certifications 🎓</h2>
 
-### General
+<fieldset>
+    <legend><h3>General</h3></legend>
+    <div>
+        <input type="checkbox" class="checkbox" name="learning-how-to-learn" id="learning-how-to-learn" checked
+        style="--size: 16px; --radius: 6px; --bg: #ECEFF2; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
+        <label for="learning-how-to-learn" style="display: inline">Learning How to Learn</label>
+    </div>
+    <div>
+        <input type="checkbox" class="checkbox" name="watch-and-code" id="watch-and-code"
+        style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
+        <label for="watch-and-code">Watch and Code</label>
+    </div>
+</fieldset>
 
-- [X] Learning How to Learn
-- [ ] Watch and Code
+<fieldset>
+    <legend><h3>Frontend</h3></legend>
+    <div>
+        <input type="checkbox" class="checkbox" name="interneting-is-hard" id="interneting-is-hard" checked
+        style="--size: 16px; --radius: 6px; --bg: #ECEFF2; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
+        <label for="interneting-is-hard" style="display: inline">Interneting Is Hard - HTML & CSS Is Hard</label>
+    </div>
+    <div>
+        <input type="checkbox" class="checkbox" name="odin-project-foundations" id="odin-project-foundations"
+        style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
+        <label for="odin-project-foundations">The Odin Project - Foundations 🏫</label>
+    </div>
+    <div>
+        <input type="checkbox" class="checkbox" name="modern-javascript-tutorial" id="modern-javascript-tutorial"
+        style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
+        <label for="modern-javascript-tutorial">The Modern JavaScript Tutorial</label>
+    </div>
+        <div>
+        <input type="checkbox" class="checkbox" name="css-for-javascript-developers" id="css-for-javascript-developers"
+        style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
+        <label for="css-for-javascript-developers">Josh W. Cameau - CSS for JavaScript Developers</label>
+    </div>
+</fieldset>
 
-### Frontend
+<fieldset>
+    <legend><h3>Backend</h3></legend>
+    <div>
+        <input type="checkbox" class="checkbox" name="launch-code" id="launch-code"
+        style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
+        <label for="launch-code">Launch Code - Java Web Development</label>
+    </div>
+    <div>
+        <input type="checkbox" class="checkbox" name="odin-project-full-stack-javascript" id="odin-project-full-stack-javascript"
+        style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
+        <label for="odin-project-full-stack-javascript">The Odin Project - Full Stack JavaScript</label>
+    </div>
+</fieldset>
 
-- [X] Interneting Is Hard - HTML & CSS Is Hard
-- [ ] The Odin Project - Foundations :school:
-- [ ] The Modern JavaScript Tutorial
-- [ ] Josh W. Cameau - CSS for JavaScript Developers
+<fieldset>
+    <legend><h3>Data</h3></legend>
+    <div>
+        <input type="checkbox" class="checkbox" name="understanding-data-topics" id="understanding-data-topics" checked
+        style="--size: 16px; --radius: 6px; --bg: #ECEFF2; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
+        <label for="understanding-data-topics" style="display: inline">DataCamp - Understanding Data Topics</label>
+    </div>
+        <div>
+        <input type="checkbox" class="checkbox" name="introduction-to-power-bi" id="introduction-to-power-bi" checked
+        style="--size: 16px; --radius: 6px; --bg: #ECEFF2; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
+        <label for="introduction-to-power-bi" style="display: inline">DataCamp - Introduction to Power BI</label>
+    </div>
+    <div>
+        <input type="checkbox" class="checkbox" name="sql-fundamentals" id="sql-fundamentals"
+        style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
+        <label for="sql-fundamentals">DataCamp - SQL Fundamentals</label>
+    </div>
+</fieldset>
 
-### Backend
+<fieldset>
+    <legend><h3>Test-Driven Development</h3></legend>
+    <div>
+        <input type="checkbox" class="checkbox" name="web-ui-javascript-path" id="web-ui-javascript-path"
+        style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
+        <label for="web-ui-javascript-path">Test Automation University - Web UI JavaScript Path</label>
+    </div>
+</fieldset>
 
-- [ ] Launch Code - Java Web Development
-- [ ] The Odin Project - Full Stack JavaScript
-
-### Data
-
-- [X] DataCamp - Understanding Data Topics
-- [X] DataCamp - Introduction to Power BI
-- [ ] DataCamp - SQL Fundamentals
-
-### Test-Driven Development
-
-- [ ] Test Automation University - Web UI JavaScript Path
-
-### Security-Minded Development
-
-- [ ] ISC2 - CSSLP Certification
+<fieldset>
+    <legend><h3>Security-Minded Development</h3></legend>
+    <div>
+        <input type="checkbox" class="checkbox" name="csslp-certification" id="csslp-certification"
+        style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
+        <label for="csslp-certification">ISC2 - CSSLP Certification</label>
+    </div>
+</fieldset>
 
 <br>
 
