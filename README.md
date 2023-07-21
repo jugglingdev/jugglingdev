@@ -112,70 +112,35 @@
 
 <h3>Programming</h3>
 
-    🌼 Hackers and Painters
-    🌼 Clean Code
-    🌼 The Self-Taught Programmer
-    🔸 The Pragmatic Programmer 📖
-    🔸 Cracking the Coding Interview: 189 Programming Questions and Solutions 📖
-    🔸 The Imposter's Handbook: A CS Primer for Self-Taught Developers
-    🔸 Think Like a Programmer: An Introduction to Creative Problem Solving
-    🔸 Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability
-    🔸 Refactoring: Improving the Design of Existing Code
-    🔸 Design Patterns
-    🔸 Grokking Simplicity: Taming Complex Software with Functional Thinking
+🌼 Hackers and Painters
+🌼 Clean Code
+🌼 The Self-Taught Programmer
+🔸 The Pragmatic Programmer 📖
+🔸 Cracking the Coding Interview: 189 Programming Questions and Solutions 📖
+🔸 The Imposter's Handbook: A CS Primer for Self-Taught Developers
+🔸 Think Like a Programmer: An Introduction to Creative Problem Solving
+🔸 Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability
+🔸 Refactoring: Improving the Design of Existing Code
+🔸 Design Patterns
+🔸 Grokking Simplicity: Taming Complex Software with Functional Thinking
 
 <h3>Languages</h3>
-    <div>
-        <input type="checkbox" class="checkbox" name="teach-yourself-java-in-21-days" id="teach-yourself-java-in-21-days" checked
-        style="--size: 16px; --radius: 6px; --bg: #ECEFF2; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
-        <label for="teach-yourself-java-in-21-days" style="display: inline">Teach Yourself Java in 21 Days</label>
-    </div>
-    <div>
-        <input type="checkbox" class="checkbox" name="joy-of-javascript" id="joy-of-javascript"
-        style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
-        <label for="joy-of-javascript">The Joy of JavaScript</label>
-    </div>
+
+🌼 Teach Yourself Java in 21 Days
+🔸 The Joy of JavaScript
 
 <h3>Strategy</h3>
-    <div>
-        <input type="checkbox" class="checkbox" name="good-to-great" id="good-to-great" checked
-        style="--size: 16px; --radius: 6px; --bg: #ECEFF2; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
-        <label for="good-to-great" style="display: inline">Good to Great</label>
-    </div>
-    <div>
-        <input type="checkbox" class="checkbox" name="measure-what-matters" id="measure-what-matters" checked
-        style="--size: 16px; --radius: 6px; --bg: #ECEFF2; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
-        <label for="measure-what-matters" style="display: inline">Measure What Matters</label>
-    </div>
-        <div>
-        <input type="checkbox" class="checkbox" name="willpower-doesnt-work" id="willpower-doesnt-work" checked
-        style="--size: 16px; --radius: 6px; --bg: #ECEFF2; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
-        <label for="willpower-doesnt-work" style="display: inline">Willpower Doesn't Work</label>
-    </div>
-    <div>
-        <input type="checkbox" class="checkbox" name="atomic-habits" id="atomic-habits"
-        style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
-        <label for="atomic-habits">Atomic Habits</label>
-    </div>
 
-<fieldset>
-    <legend><h3>Other</h3></legend>
-    <div>
-        <input type="checkbox" class="checkbox" name="building-a-storybrand" id="building-a-storybrand" checked
-        style="--size: 16px; --radius: 6px; --bg: #ECEFF2; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
-        <label for="building-a-storybrand" style="display: inline">Building a Storybrand</label>
-    </div>
-    <div>
-        <input type="checkbox" class="checkbox" name="culture-code" id="culture-code"
-        style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
-        <label for="culture-code">Culture Code</label>
-    </div>
-    <div>
-        <input type="checkbox" class="checkbox" name="solve-for-happy" id="solve-for-happy"
-        style="--size: 16px; --radius: 6px; --bg: #CFD5E5; --color: #FDCD00; --time: 0.4s; display: inline-block;vertical-align: top;">
-        <label for="solve-for-happy">Solve for Happy: Engineer Your Path to Joy</label>
-    </div>
-</fieldset>
+🌼 Good to Great
+🌼 Measure What Matters
+🌼 Willpower Doesn't Work
+🔸 Atomic Habits
+
+<h3>Other</h3>
+
+🌼 Building a Storybrand
+🌼 Culture Code
+🔸 Solve for Happy: Engineer Your Path to Joy
 
 <br>
 
