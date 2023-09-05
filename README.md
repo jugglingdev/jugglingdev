@@ -62,42 +62,22 @@
             </tr>
             <tr>
                 <td>
-                    <a href="https://github.com/jugglingdev/etch-a-sketch">Etch-A-Sketch</a>
+                    <a href="https://github.com/Open-SGF/sparkling-tom-cats">Tech Meetups API</a>
                 </td>
                 <td>
-                    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jugglingdev/etch-a-sketch?style=flat-square">
+                    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Open-SGF/sparkling-tom-cats?style=flat-square">
                 </td>
                 <td>
-                    <img alt="GitHub forks" src="https://img.shields.io/github/forks/jugglingdev/etch-a-sketch?style=flat-square">
+                    <img alt="GitHub forks" src="https://img.shields.io/github/forks/Open-SGF/sparkling-tom-cats?style=flat-square">
                 </td>
                 <td>
-                    <img alt="GitHub issues" src="https://img.shields.io/github/issues/jugglingdev/etch-a-sketch?style=flat-square">
+                    <img alt="GitHub issues" src="https://img.shields.io/github/issues/Open-SGF/sparkling-tom-cats?style=flat-square">
                 </td>
                 <td>
-                    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/jugglingdev/etch-a-sketch?style=flat-square">
+                    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Open-SGF/sparkling-tom-cats?style=flat-square">
                 </td>
                 <td>
-                    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jugglingdev/etch-a-sketch?style=flat-square">
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <a href="https://github.com/jugglingdev/calculator">Calculator</a>
-                </td>
-                <td>
-                    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jugglingdev/calculator?style=flat-square">
-                </td>
-                <td>
-                    <img alt="GitHub forks" src="https://img.shields.io/github/forks/jugglingdev/calculator?style=flat-square">
-                </td>
-                <td>
-                    <img alt="GitHub issues" src="https://img.shields.io/github/issues/jugglingdev/calculator?style=flat-square">
-                </td>
-                <td>
-                    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/jugglingdev/calculator?style=flat-square">
-                </td>
-                <td>
-                    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jugglingdev/calculator?style=flat-square">
+                    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Open-SGF/sparkling-tom-cats?style=flat-square">
                 </td>
             </tr>
         </tbody>
