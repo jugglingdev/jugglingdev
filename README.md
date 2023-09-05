@@ -114,7 +114,7 @@
     🌼 Clean Code
     🌼 The Self-Taught Programmer
     🔸 The Pragmatic Programmer 📖
-    🔸 Cracking the Coding Interview: 189 Programming Questions and Solutions 📖
+    🔸 Cracking the Coding Interview: 189 Programming Questions and Solutions
     🔸 The Imposter's Handbook: A CS Primer for Self-Taught Developers
     🔸 Think Like a Programmer: An Introduction to Creative Problem Solving
     🔸 Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability
@@ -149,18 +149,15 @@
     🌼 Learning How to Learn
     🔸 Watch and Code
 
-
 <h3>Frontend</h3>
 
     🌼 Interneting Is Hard - HTML & CSS Is Hard
     🔸 The Odin Project - Foundations 🏫
-    🔸 The Modern JavaScript Tutorial
-    🔸 Josh W. Cameau - CSS for JavaScript Developers
+    🔸 Codefi CodeLabs - Frontend 🏫
 
 <h3>Backend</h3>
 
-    🔸 Launch Code - Java Web Development
-    🔸 The Odin Project - Full Stack JavaScript
+    🔸 Codefi CodeLabs - Backend
 
 <h3>Data</h3>
 
