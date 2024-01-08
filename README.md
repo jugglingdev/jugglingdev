@@ -1,12 +1,12 @@
 <header>
-    <img src="./banner.png" align="center">
+    <img src="./banner.png" align="center" alt="Profile banner for Kayla Marie, Software Developer">
 </header>
 
 <br>
 
 <h1 align="center">Hello, World! 🌎</h1>
     <p align="center">
-        I'm Kayla, a teacher turned developer from the United States.<br>
+        I'm Kayla, a software developer from the United States.<br>
         I bring my background in music 🎹 and language 💬 to the world of coding.<br>
         And yes, I really do juggle. 🤹
     </p>
