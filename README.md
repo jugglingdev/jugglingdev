@@ -108,7 +108,6 @@
 <h3>Languages</h3>
 
     🌼 Teach Yourself Java in 21 Days
-    🔸 The Joy of JavaScript
 
 <h3>Strategy</h3>
 
@@ -120,7 +119,7 @@
 <h3>Other</h3>
 
     🌼 Building a Storybrand
-    🌼 Culture Code
+    🔸 Culture Code
     🔸 Solve for Happy: Engineer Your Path to Joy
 
 <br>
