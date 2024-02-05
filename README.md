@@ -164,9 +164,9 @@
 
 <h3>Data</h3>
 
-    🌼 DataCamp - Understanding Data Topics
+    🌼 DataCamp - Understanding Data Topics (Data Science, Data Engineering, Data Visualization, Cloud Computing, and Machine Learning)
     🌼 DataCamp - Introduction to Power BI
-    🔸 DataCamp - SQL Fundamentals
+    🌼 DataCamp - Introduction to SQL, Intermediate SQL, and Intermediate SQL Queries
 
 <h3>Test-Driven Development</h3>
 
