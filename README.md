@@ -21,9 +21,13 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Inertia](https://img.shields.io/badge/Inertia-9455EA?style=for-the-badge&logo=inertia&logoColor=white)
 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 	![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=confluence&logoColor=white)
 
 </div>
 
@@ -43,26 +47,6 @@
             </tr>
         </thead>
         <tbody>
-            <tr>
-                <td>
-                    <a href="https://github.com/Open-SGF/sparkling-tom-cats">Tech Meetup API</a>
-                </td>
-                <td>
-                    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Open-SGF/sparkling-tom-cats?style=flat-square">
-                </td>
-                <td>
-                    <img alt="GitHub forks" src="https://img.shields.io/github/forks/Open-SGF/sparkling-tom-cats?style=flat-square">
-                </td>
-                <td>
-                    <img alt="GitHub issues" src="https://img.shields.io/github/issues/Open-SGF/sparkling-tom-cats?style=flat-square">
-                </td>
-                <td>
-                    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Open-SGF/sparkling-tom-cats?style=flat-square">
-                </td>
-                <td>
-                    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Open-SGF/sparkling-tom-cats?style=flat-square">
-                </td>
-            </tr>
             <tr>
                 <td>
                     <a href="https://github.com/Open-SGF/gooddads">Good Dads</a>
@@ -139,7 +123,7 @@
 
 <h3>Backend</h3>
 
-    🔸 Codefi CodeLabs - Backend 🏫
+    🌼 Codefi CodeLabs - Backend
 
 <h3>Data</h3>
 
