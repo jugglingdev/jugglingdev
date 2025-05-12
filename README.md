@@ -83,25 +83,6 @@ Awarded 2nd place in the 2023 hack-a-thon for the team's solution of a learning 
 
 <br>
 
-<h2 align="center"> Bookshelf 📚</h2>
-
-<h3>Programming</h3>
-
-    🌼 Hackers and Painters
-    🌼 Clean Code
-    🌼 The Self-Taught Programmer
-    🌼 Teach Yourself Java in 21 Days
-    🔸 The Pragmatic Programmer 📖
-
-<h3>Strategy & Culture</h3>
-
-    🌼 Good to Great
-    🌼 Measure What Matters
-    🌼 Willpower Doesn't Work
-    🌼 Building a Storybrand
-    🌼 It Doesn't Have to Be Crazy at Work
-
-<br>
 
 <h2 align="center">Online Courses and Certifications 🎓</h2>
 
@@ -125,6 +106,25 @@ Awarded 2nd place in the 2023 hack-a-thon for the team's solution of a learning 
 
 <br>
 
+<h2 align="center"> Bookshelf 📚</h2>
+
+<h3>Programming</h3>
+
+    🌼 Hackers and Painters
+    🌼 Clean Code
+    🌼 The Self-Taught Programmer
+    🌼 Teach Yourself Java in 21 Days
+    🔸 The Pragmatic Programmer 📖
+
+<h3>Strategy & Culture</h3>
+
+    🌼 Good to Great
+    🌼 Measure What Matters
+    🌼 Willpower Doesn't Work
+    🌼 Building a Storybrand
+    🌼 It Doesn't Have to Be Crazy at Work
+
+<br>
 <footer>
     <h2 align="center"> Find Me 🔍</h2>
     <p align="center">
