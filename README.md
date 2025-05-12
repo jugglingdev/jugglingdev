@@ -120,6 +120,8 @@ Awarded 2nd place in the 2023 hack-a-thon for the team's solution of a learning 
     🌼 Interneting Is Hard - HTML & CSS Is Hard
     🔸 The Odin Project - Foundations 🏫
     🌼 Codefi CodeLabs - Frontend
+    🔸 CSS for JavaScript Developers 🏫
+    🔸 The Joy of React 🏫
 
 <h3>Backend</h3>
 
