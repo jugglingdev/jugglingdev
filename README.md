@@ -90,22 +90,16 @@ Awarded 2nd place in the 2023 hack-a-thon for the team's solution of a learning 
     🌼 Hackers and Painters
     🌼 Clean Code
     🌼 The Self-Taught Programmer
+    🌼 Teach Yourself Java in 21 Days
     🔸 The Pragmatic Programmer 📖
 
-<h3>Languages</h3>
-
-    🌼 Teach Yourself Java in 21 Days
-
-<h3>Strategy</h3>
+<h3>Strategy & Culture</h3>
 
     🌼 Good to Great
     🌼 Measure What Matters
     🌼 Willpower Doesn't Work
-    🌼 It Doesn't Have to Be Crazy at Work
-
-<h3>Other</h3>
-
     🌼 Building a Storybrand
+    🌼 It Doesn't Have to Be Crazy at Work
 
 <br>
 
@@ -115,17 +109,13 @@ Awarded 2nd place in the 2023 hack-a-thon for the team's solution of a learning 
 
     🌼 Learning How to Learn
 
-<h3>Frontend</h3>
+<h3>Software Development</h3>
 
     🌼 Interneting Is Hard - HTML & CSS Is Hard
     🔸 The Odin Project - Foundations 🏫
-    🌼 Codefi CodeLabs - Frontend
+    🌼 Codefi CodeLabs - Full-Stack Web Development
     🔸 CSS for JavaScript Developers 🏫
     🔸 The Joy of React 🏫
-
-<h3>Backend</h3>
-
-    🌼 Codefi CodeLabs - Backend
 
 <h3>Data</h3>
 
