@@ -73,6 +73,22 @@
 
 <br>
 
+<h2 align="center"> Other Projects & Technical Work 🚀</h2>
+A lot of my work is done outside of GitHub using various platforms such as WordPress and WebSphere Commerce.  The table below highlights some of those projects as well as some of my favorite Git commits.
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **[Ascend Adventure Packs](https://www.basspro.com/b/ascend-adventure-packs)** | Collaborated with digital merchants and designers to build a new type of product page for the Bass Pro website which includes dynamic modal sliders to demonstrate product features | HTML, CSS, JavaScript, Splide JS |
+| **[Shop the Look](https://www.basspro.com/b/shop-the-look)** | Collaborated with third party Syndeca, designer, and merchant to implement shoppable images as a grid on the Bass Pro Shops website | HTML, CSS, Vanilla JavaScript |
+| **[Springfield Meetup API](https://github.com/Open-SGF/sgf-meetup-api)** | [Prototyped initial GraphQL API query](https://github.com/Open-SGF/sgf-meetup-api/pull/7/files) to retrieve local meetup data while learning GraphQL for the first time | GraphQL, AWS |
+| **[Hack4Good](https://github.com/ZackBradshaw/GoodDads)** | Developed a proof of concept single-page LMS application with an admin desktop view and participant mobile view; won 2nd place at hack-a-thon | Angular, Google Forms, Firebase |
+| **[Good Dads](https://github.com/Open-SGF/gooddads)** | Pick up of winning Hack4Good project; contribute weekly to this open source project for a local non-profit, learning a new tech stack (featured above in Current Projects) | Laravel, Inertia, React |
+| **[Etch-A-Sketch](https://jugglingdev.github.io/etch-a-sketch/)** | Built this fully self-structured project for fun, [documenting my learnings](https://github.com/jugglingdev/etch-a-sketch) and adding new features based on designer feedback (be sure to visit the gallery!) | Vanilla JS, HTML/CSS |
+| **[This Supplement Sucks](https://thissupplementsucks.com/)** | Developing this freelance Wordpress site with custom CSS designs and SEO-first content strategy | WordPress, CSS |
+| **Vizteams [Frontend](https://github.com/codelabs-springfield-vizient-group-2024/vizteams-fe) and [Rails API](https://github.com/codelabs-springfield-vizient-group-2024/vizteams-api)** | Collaborated on this full stack capstone project to simplify team management; merged pull requests include [handling profile pictures](https://github.com/codelabs-springfield-vizient-group-2024/vizteams-api/pull/13) | Angular, Angular Material, Ruby on Rails |
+
+<br>
+
 <h2 align="center"> Awards 🏆</h2>
 
 🔗 **[Excellence in Technology Award – Rising Star](https://sgftechcouncil.com/news/excellence-in-technology-award-winners-2024)**
@@ -135,6 +151,9 @@ Awarded 2nd place in the 2023 hack-a-thon for the team's solution of a learning 
             <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
         </a>
     </p>
-    <br>
+
+
+
+<br>
     <p align="center">👋 <em>Thanks for visiting!</em></p>
 </footer>
