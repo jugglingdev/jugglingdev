@@ -91,13 +91,6 @@ Awarded 2nd place in the 2023 hack-a-thon for the team's solution of a learning 
     🌼 Clean Code
     🌼 The Self-Taught Programmer
     🔸 The Pragmatic Programmer 📖
-    🔸 Cracking the Coding Interview: 189 Programming Questions and Solutions
-    🔸 The Imposter's Handbook: A CS Primer for Self-Taught Developers
-    🔸 Think Like a Programmer: An Introduction to Creative Problem Solving
-    🔸 Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability
-    🔸 Refactoring: Improving the Design of Existing Code
-    🔸 Design Patterns
-    🔸 Grokking Simplicity: Taming Complex Software with Functional Thinking
 
 <h3>Languages</h3>
 
@@ -109,13 +102,10 @@ Awarded 2nd place in the 2023 hack-a-thon for the team's solution of a learning 
     🌼 Measure What Matters
     🌼 Willpower Doesn't Work
     🌼 It Doesn't Have to Be Crazy at Work
-    🔸 Atomic Habits
 
 <h3>Other</h3>
 
     🌼 Building a Storybrand
-    🔸 Culture Code
-    🔸 Solve for Happy: Engineer Your Path to Joy
 
 <br>
 
@@ -124,7 +114,6 @@ Awarded 2nd place in the 2023 hack-a-thon for the team's solution of a learning 
 <h3>General</h3>
 
     🌼 Learning How to Learn
-    🔸 Watch and Code
 
 <h3>Frontend</h3>
 
@@ -141,14 +130,6 @@ Awarded 2nd place in the 2023 hack-a-thon for the team's solution of a learning 
     🌼 DataCamp - Understanding Data Topics (Data Science, Data Engineering, Data Visualization, Cloud Computing, and Machine Learning)
     🌼 DataCamp - Introduction to Power BI
     🌼 DataCamp - Introduction to SQL, Intermediate SQL, and Intermediate SQL Queries
-
-<h3>Test-Driven Development</h3>
-
-    🔸 Test Automation University - Web UI JavaScript Path
-
-<h3>Security-Minded Development</h3>
-
-    🔸 ISC2 - CSSLP Certification
 
 <br>
 
