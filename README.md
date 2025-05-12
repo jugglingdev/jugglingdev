@@ -75,7 +75,7 @@
 
 <h2 align="center"> Other Projects & Technical Work 🚀</h2>
 A lot of my work is done outside of GitHub using various platforms such as WordPress and WebSphere Commerce.  The table below highlights some of those projects as well as some of my favorite Git commits.
-<br>
+<br><br>
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
