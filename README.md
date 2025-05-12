@@ -142,15 +142,6 @@ Awarded 2nd place in the 2023 hack-a-thon for the team's solution of a learning 
         <a href="https://www.linkedin.com/in/kayla-marie-paden" target="_blank">
             <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
         </a>
-        <a href="https://www.hackerrank.com/jugglingdev?hr_r=1" target="_blank">
-            <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
-        </a>
-        <a href="https://leetcode.com/jugglingdev/" target="_blank">
-            <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
-        </a>
-        <a href="https://www.datacamp.com/profile/kaylamarie1785" target="_blank">
-            <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860">
-        </a>
     </p>
     <br>
     <p align="center">👋 <em>Thanks for visiting!</em></p>
