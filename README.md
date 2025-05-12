@@ -141,6 +141,22 @@ Awarded 2nd place in the 2023 hack-a-thon for the team's solution of a learning 
     🌼 It Doesn't Have to Be Crazy at Work
 
 <br>
+
+<h2 align="center"> More Wins 💪🏻</h2>
+
+Many mentors and leaders recommend documenting wins, so here are some more I've gathered when collaborating with others.
+
+**General**
+<img src="./linkedin-review.png" align="center" alt="Kayla is a wonderful developer and a fabulous communicator.  She is not only committed to finding *an* answer but the correct one, and from the smallest projects to the biggest dreams she's always thrilled to help.  She also has a flare for micro-animations that add a beautiful polish to every end product.">
+
+**Documentation**
+<img src="./cross-team-collaboration-documentation.png" align="center" alt="Kayla Paden, this Confluence document is very helpful so glad that you shared it for our team!!!!! Along with providing the business impact and urgency that we are coming up on the next deadline for the tracking IDs to be updated. You Rock!">
+
+**Communication**
+<img src="./cross-team-communication-non-technical-audience.png" align="center" alt="Kayla Paden, this Confluence document is very helpful so glad that you shared it for our team!!!!! Along with providing the business impact and urgency that we are coming up on the next deadline for the tracking IDs to be updated. You Rock!">
+
+<br>
+
 <footer>
     <h2 align="center"> Find Me 🔍</h2>
     <p align="center">
@@ -151,8 +167,6 @@ Awarded 2nd place in the 2023 hack-a-thon for the team's solution of a learning 
             <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
         </a>
     </p>
-
-
 
 <br>
     <p align="center">👋 <em>Thanks for visiting!</em></p>
