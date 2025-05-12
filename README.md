@@ -75,6 +75,7 @@
 
 <h2 align="center"> Other Projects & Technical Work 🚀</h2>
 A lot of my work is done outside of GitHub using various platforms such as WordPress and WebSphere Commerce.  The table below highlights some of those projects as well as some of my favorite Git commits.
+<br>
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
@@ -146,13 +147,13 @@ Awarded 2nd place in the 2023 hack-a-thon for the team's solution of a learning 
 
 Many mentors and leaders recommend documenting wins, so here are some more I've gathered when collaborating with others.
 
-**General**
+<h3>General</h3>
 <img src="./linkedin-review.png" align="center" alt="Kayla is a wonderful developer and a fabulous communicator.  She is not only committed to finding *an* answer but the correct one, and from the smallest projects to the biggest dreams she's always thrilled to help.  She also has a flare for micro-animations that add a beautiful polish to every end product.">
 
-**Documentation**
+<h3>Documentation</h3>
 <img src="./cross-team-collaboration-documentation.png" align="center" alt="Kayla Paden, this Confluence document is very helpful so glad that you shared it for our team!!!!! Along with providing the business impact and urgency that we are coming up on the next deadline for the tracking IDs to be updated. You Rock!">
 
-**Communication**
+<h3>Communication</h3>
 <img src="./cross-team-communication-non-technical-audience.png" align="center" alt="Kayla Paden, this Confluence document is very helpful so glad that you shared it for our team!!!!! Along with providing the business impact and urgency that we are coming up on the next deadline for the tracking IDs to be updated. You Rock!">
 
 <br>
