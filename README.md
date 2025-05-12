@@ -41,7 +41,6 @@
                 <th>Project</th>
                 <th>Stars</th>
                 <th>Forks</th>
-                <th>Issues</th>
                 <th>Pull Requests</th>
                 <th>Last Commit</th>
             </tr>
@@ -56,9 +55,6 @@
                 </td>
                 <td>
                     <img alt="GitHub forks" src="https://img.shields.io/github/forks/Open-SGF/gooddads?style=flat-square">
-                </td>
-                <td>
-                    <img alt="GitHub issues" src="https://img.shields.io/github/issues/Open-SGF/gooddads?style=flat-square">
                 </td>
                 <td>
                     <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Open-SGF/gooddads?style=flat-square">
