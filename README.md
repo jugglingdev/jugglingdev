@@ -98,6 +98,7 @@
     🌼 Good to Great
     🌼 Measure What Matters
     🌼 Willpower Doesn't Work
+    🌼 It Doesn't Have to Be Crazy at Work
     🔸 Atomic Habits
 
 <h3>Other</h3>
