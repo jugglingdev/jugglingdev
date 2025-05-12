@@ -79,7 +79,7 @@ A lot of my work is done outside of GitHub using various platforms such as WordP
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **[Ascend Adventure Packs](https://www.basspro.com/b/ascend-adventure-packs)** | Collaborated with digital merchants and designers to build a new type of product page for the Bass Pro website which includes dynamic modal sliders to demonstrate product features | HTML, CSS, JavaScript, Splide JS |
+| **[Ascend Adventure Packs](https://www.basspro.com/b/ascend-adventure-packs)** | Collaborated with digital merchants and designers to build a new type of product page for the Bass Pro Shops website which includes dynamic modal sliders to demonstrate product features | HTML, CSS, JavaScript, Splide JS |
 | **[Shop the Look](https://www.basspro.com/b/shop-the-look)** | Collaborated with third party Syndeca, designer, and merchant to implement shoppable images as a grid on the Bass Pro Shops website | HTML, CSS, Vanilla JavaScript |
 | **[Springfield Meetup API](https://github.com/Open-SGF/sgf-meetup-api)** | [Prototyped initial GraphQL API query](https://github.com/Open-SGF/sgf-meetup-api/pull/7/files) to retrieve local meetup data while learning GraphQL for the first time | GraphQL, AWS |
 | **[Hack4Good](https://github.com/ZackBradshaw/GoodDads)** | Developed a proof of concept single-page LMS application with an admin desktop view and participant mobile view; won 2nd place at hack-a-thon | Angular, Google Forms, Firebase |
