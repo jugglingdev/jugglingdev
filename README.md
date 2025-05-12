@@ -73,6 +73,16 @@
 
 <br>
 
+<h2 align="center"> Awards 🏆</h2>
+
+🔗 **[Excellence in Technology Award – Rising Star](https://sgftechcouncil.com/news/excellence-in-technology-award-winners-2024)**
+Recognized in September 2024 for excellence as an up-and-coming local professional who has been working in technology for less than five years.
+
+🔗 **[Hack4Good – 2nd Place](https://github.com/ZackBradshaw/GoodDads)**
+Awarded 2nd place in the 2023 hack-a-thon for the team's solution of a learning management system using Google Forms API, Chart.js, Firebase Auth and Gmail, and OneSignal for push notifications.
+
+<br>
+
 <h2 align="center"> Bookshelf 📚</h2>
 
 <h3>Programming</h3>
