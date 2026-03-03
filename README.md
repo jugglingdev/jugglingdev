@@ -89,7 +89,7 @@ A lot of my work is done outside of GitHub using various platforms such as WordP
 <h2 align="center"> Awards 🏆</h2>
 
 🔗 **[Codefi Vibeathon – 3rd Place](https://youtu.be/o2iyER0LOUQ)**
-Awarded 3rd place in the 2025 vibeathon for a proof of concept solution that provides pay transparency for healthcare costs for insured and self-pay individuals comparing pricing across institutions as well as analytics for healthcare providers to close the gap on meeting patient needs.  Built with GitHub Spark.
+Awarded 3rd place in the 2025 vibeathon for a proof of concept solution that provides pay transparency for healthcare costs for insured and self-pay individuals comparing pricing across institutions.  Also includes analytics for healthcare providers to close the gap on meeting patient needs.  Built with GitHub Spark.
 
 🔗 **[Excellence in Technology Award – Rising Star](https://sgftechcouncil.com/news/excellence-in-technology-award-winners-2024)**
 Recognized in September 2024 for excellence as an up-and-coming local professional who has been working in technology for less than five years.
